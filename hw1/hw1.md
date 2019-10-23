@@ -2,9 +2,15 @@
 
 ## Solution 1
 
+https://colab.research.google.com/drive/1KkpXtO4_x54y-Ygn4hQAdMqyED-xCTAW
+
 ## Solution 2
 
+https://colab.research.google.com/drive/1eeCy_KcC5HP01vCOz8anreFJQeCyEJB9
+
 ## Solution 3
+
+https://colab.research.google.com/drive/15w99IY6wfvvBMAipzPUEbl3aegIPQ_dj
 
 Problem 1
 
